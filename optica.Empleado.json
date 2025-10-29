@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229faae"
+  },
+  "Nombre": "Federico",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229fa9e"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-01-05T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229faaf"
+  },
+  "Nombre": "Laura",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229fa9f"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-02-14T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-02-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab0"
+  },
+  "Nombre": "Javier",
+  "Id_gafas_vendidas": {
+    "$oit": "6900ab1f5edda6c8e229faa0"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-03-01T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab1"
+  },
+  "Nombre": "Sofía",
+  "Id_gafas_vendidas": {
+    "$oit": "6900ab1f5edda6c8e229faa1"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-03-22T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-03-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab2"
+  },
+  "Nombre": "Carlos",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229faa2"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-04-10T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab3"
+  },
+  "Nombre": "Elena",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229faa3"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab4"
+  },
+  "Nombre": "David",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229faa4"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-06-09T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab5"
+  },
+  "Nombre": "Lucía",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229faa5"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-07-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab6"
+  },
+  "Nombre": "Andrés",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229faa6"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-07-21T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b08c5edda6c8e229fab7"
+  },
+  "Nombre": "Marina",
+  "Id_gafas_vendidas": {
+    "$oid": "6900ab1f5edda6c8e229faa7"
+  },
+  "Fecha_inicio_venta": {
+    "$date": "2024-08-12T00:00:00.000Z"
+  },
+  "Fecha_fin_venta": {
+    "$date": "2024-08-17T00:00:00.000Z"
+  }
+}]

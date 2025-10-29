@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fad9"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229facd"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229faae"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229fa9e"
+  },
+  "Fecha_venta": {
+    "$date": "2024-01-05T10:30:00.000Z"
+  },
+  "Unidades_vendidas": 1
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fada"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229face"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229faaf"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229fa9f"
+  },
+  "Fecha_venta": {
+    "$date": "2024-01-12T15:45:00.000Z"
+  },
+  "Unidades_vendidas": 2
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fadb"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229facf"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab0"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa0"
+  },
+  "Fecha_venta": {
+    "$date": "2024-02-01T09:00:00.000Z"
+  },
+  "Unidades_vendidas": 1
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fadc"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad0"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab1"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa1"
+  },
+  "Fecha_venta": {
+    "$date": "2024-02-15T11:20:00.000Z"
+  },
+  "Unidades_vendidas": 3
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fadd"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad1"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab2"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa2"
+  },
+  "Fecha_venta": {
+    "$date": "2024-03-03T16:10:00.000Z"
+  },
+  "Unidades_vendidas": 1
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fade"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad2"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab3"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa3"
+  },
+  "Fecha_venta": {
+    "$date": "2024-03-12T14:30:00.000Z"
+  },
+  "Unidades_vendidas": 2
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fadf"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad3"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab4"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa4"
+  },
+  "Fecha_venta": {
+    "$date": "2024-04-01T12:00:00.000Z"
+  },
+  "Unidades_vendidas": 1
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fae0"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad4"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab5"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa5"
+  },
+  "Fecha_venta": {
+    "$date": "2024-04-18T10:45:00.000Z"
+  },
+  "Unidades_vendidas": 1
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fae1"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad5"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab6"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa6"
+  },
+  "Fecha_venta": {
+    "$date": "2024-05-05T09:30:00.000Z"
+  },
+  "Unidades_vendidas": 2
+},
+{
+  "_id": {
+    "$oid": "6900b8b25edda6c8e229fae2"
+  },
+  "Id_cliente": {
+    "$oid": "6900b7355edda6c8e229fad6"
+  },
+  "Id_empleado": {
+    "$oid": "6900b08c5edda6c8e229fab7"
+  },
+  "Id_gafas": {
+    "$oid": "6900ab1f5edda6c8e229faa7"
+  },
+  "Fecha_venta": {
+    "$date": "2024-05-20T15:00:00.000Z"
+  },
+  "Unidades_vendidas": 1
+}]

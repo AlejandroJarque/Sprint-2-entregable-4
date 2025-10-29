@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229facd"
+  },
+  "Nombre": "Manuel",
+  "Direccion": "Calle Mayor 12, Madrid",
+  "Telefono": "600123456",
+  "Email": "federico@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-01-05T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008b0c5edda6c8e229fa89"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229face"
+  },
+  "Nombre": "Alejandra",
+  "Direccion": "Av. de la Libertad 45, Barcelona",
+  "Telefono": "611234567",
+  "Email": "laura@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "671fa2b8e1c5b7d2fcd4b91c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229facf"
+  },
+  "Nombre": "Serafin",
+  "Direccion": "Calle del Sol 8, Valencia",
+  "Telefono": "622345678",
+  "Email": "carlos@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-02-01T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008ab95edda6c8e229fa85"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad0"
+  },
+  "Nombre": "Yolanda",
+  "Direccion": "Plaza Mayor 3, Sevilla",
+  "Telefono": "633456789",
+  "Email": "marta@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-02-12T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008b0c5edda6c8e229fa8b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad1"
+  },
+  "Nombre": "Serra",
+  "Direccion": "Calle Luna 22, Zaragoza",
+  "Telefono": "644567890",
+  "Email": "andres@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-03-05T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008b0c5edda6c8e229fa8c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad2"
+  },
+  "Nombre": "Amelia",
+  "Direccion": "Av. Andalucía 18, Málaga",
+  "Telefono": "655678901",
+  "Email": "elena@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-03-18T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008b0c5edda6c8e229fa8d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad3"
+  },
+  "Nombre": "Sebas",
+  "Direccion": "Calle Jardín 7, Bilbao",
+  "Telefono": "666789012",
+  "Email": "raul@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008b0c5edda6c8e229fa8e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad4"
+  },
+  "Nombre": "Guille",
+  "Direccion": "Av. Central 10, Granada",
+  "Telefono": "677890123",
+  "Email": "lucia@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008b0c5edda6c8e229fa8f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad5"
+  },
+  "Nombre": "Alex",
+  "Direccion": "Calle Nueva 5, Valladolid",
+  "Telefono": "688901234",
+  "Email": "diego@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "69008ab95edda6c8e229fa85"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900b7355edda6c8e229fad6"
+  },
+  "Nombre": "Ernesto",
+  "Direccion": "Plaza España 11, Toledo",
+  "Telefono": "699012345",
+  "Email": "sara@mail.com",
+  "Fecha_registro": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Id_recomendador": {
+    "$oid": "671fa2b8e1c5b7d2fcd4b91c"
+  }
+}]
