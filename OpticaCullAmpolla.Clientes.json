@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "692ddca88b9da8c9b7264c3e"
+  },
+  "Nombre": "Carlos",
+  "Apellido": "Garcia",
+  "Direccion": [
+    "Av.Principal",
+    "242"
+  ],
+  "Telefono": "663945532",
+  "Mail": "garciaCarlos@gmail.com",
+  "Fecha_registro": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "Gafas": {
+    "Marca": "Ryban",
+    "Graduacion_Vidrio": {
+      "Izquierdo": "-1.25",
+      "Derecho": "+0.75"
+    },
+    "Color_vidrio": {
+      "Izquierdo": "azul",
+      "Derecho": "azul"
+    },
+    "Montura": "Metallica",
+    "Precio": "174,50"
+  }
+}]

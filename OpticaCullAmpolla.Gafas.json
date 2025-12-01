@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "692de3848b9da8c9b7264c47"
+  },
+  "Gafas": {
+    "Marca": "Ryban",
+    "Montura": "Metalica",
+    "Proveedor": {
+      "Direccion": {
+        "Calle": "Cadí",
+        "Numero": "9",
+        "Piso": "Tercero",
+        "Puerta": "Num 2",
+        "Ciudad": "Barcelona",
+        "Codigo_Postal": "08859",
+        "Pais": "España"
+      },
+      "Telefono": "94553232",
+      "Fax": "+34963452781",
+      "Nif": "12345678Z"
+    },
+    "Precio": "174,50"
+  },
+  "Ventas": {
+    "Cliente": {
+      "id_cliente": {
+        "$oid": "692ddca88b9da8c9b7264c3e"
+      },
+      "Nombre": "Carlos",
+      "Direccion": [
+        "Av.Principal",
+        "242"
+      ],
+      "Telefono": "663945532",
+      "Mail": "garciaCarlos@gmail.com",
+      "Fecha_registro": {
+        "$date": "2025-12-01T00:00:00.000Z"
+      },
+      "id_recomendador": {
+        "$oid": "67587e4f9a3c2b17fc42a1d9"
+      }
+    },
+    "Empleado": {
+      "id_empleado": {
+        "$oid": "67587f3a4c2b891fde1a34bf"
+      },
+      "Nombre": "Estevan",
+      "Fecha_inicio_venta": {
+        "$date": "2025-12-01T00:00:00.000Z"
+      },
+      "Fecha_fin_venta": {
+        "$date": "2025-12-02T00:00:00.000Z"
+      }
+    },
+    "Id_gafas": {
+      "$oid": "675880129fe4c3d2a4b6e81c"
+    },
+    "Fecha_venta": {
+      "$date": "2025-12-02T00:00:00.000Z"
+    },
+    "Unidades_vendidas": 2
+  }
+}]
