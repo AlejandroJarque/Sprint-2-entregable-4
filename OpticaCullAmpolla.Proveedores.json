@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65aa1111aa1111aa1111aa11"
+  },
+  "nombre": "\"Gafas Associated SL\"",
+  "direccion:": {
+    "calle": "Cadi",
+    "numro": "9",
+    "piso": "Tercero",
+    "puerta": "2n",
+    "ciudad": "Barcelona",
+    "codigo_postal": "08003",
+    "pais": "España"
+  },
+  "fax": "+34963452781",
+  "nif": "12345678Z",
+  "telefono": "94553232"
+}]
