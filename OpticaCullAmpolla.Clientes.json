@@ -26,19 +26,8 @@
     },
     "Montura": "Metallica",
     "Precio": "174,50",
-    "Proveedor": {
-      "Direccion": {
-        "calle": "Tarragona",
-        "numero": "72",
-        "piso": "1r",
-        "puerta": "2 ",
-        "ciudad": "Barcelona",
-        "codigo postal": "80003",
-        "pais": "España"
-      },
-      "fax": "234127854434",
-      "nif": "456234578T",
-      "telefono": "663859423"
+    "Proveedor_id": {
+      "$oid": "65aa1111aa1111aa1111aa11"
     }
   }
 }]
