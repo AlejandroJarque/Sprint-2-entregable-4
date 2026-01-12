@@ -4,10 +4,11 @@
   },
   "Nombre": "Carlos",
   "Apellido": "Garcia",
-  "Direccion": [
-    "Av.Principal",
-    "242"
-  ],
+  "Direccion": {
+    "ciudad": "Barcelona",
+    "calle": "Av. Maragall",
+    "num": "243"
+  },
   "Telefono": "663945532",
   "Mail": "garciaCarlos@gmail.com",
   "Fecha_registro": {
@@ -24,6 +25,20 @@
       "Derecho": "azul"
     },
     "Montura": "Metallica",
-    "Precio": "174,50"
+    "Precio": "174,50",
+    "Proveedor": {
+      "Direccion": {
+        "calle": "Tarragona",
+        "numero": "72",
+        "piso": "1r",
+        "puerta": "2 ",
+        "ciudad": "Barcelona",
+        "codigo postal": "80003",
+        "pais": "España"
+      },
+      "fax": "234127854434",
+      "nif": "456234578T",
+      "telefono": "663859423"
+    }
   }
 }]

@@ -27,10 +27,11 @@
         "$oid": "692ddca88b9da8c9b7264c3e"
       },
       "Nombre": "Carlos",
-      "Direccion": [
-        "Av.Principal",
-        "242"
-      ],
+      "Direccion": {
+        "ciudad": "Barcelona",
+        "calle": "Av.Tarragona",
+        "numro": "452"
+      },
       "Telefono": "663945532",
       "Mail": "garciaCarlos@gmail.com",
       "Fecha_registro": {
